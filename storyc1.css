@@ -1,0 +1,14 @@
+body {
+    background: url("./amcagen.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.main{
+    display:flex;
+    justify-content:space-evenly;
+    
+}
+img{
+    border-radius: 10% 10% 10% 10%; 
+}
